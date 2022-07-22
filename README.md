@@ -1,9 +1,5 @@
 # EASYIO
 A simple application to test REST and SocketIO connectivity and experiment with node.js deployement models. This is an accompanying app 
-for YouTube series - **"Deploying Node"** https://www.youtube.com/playlist?list=PLQlWzK5tU-gDyxC1JTpyC2avvJlt3hrIh
-
-Check out the deployed version at https://nanogram.io
-
 
 # Building locally
 
